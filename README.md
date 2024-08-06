@@ -1,21 +1,83 @@
-<h1 align="center">Hi 👋, I'm Asib Hossen</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+  <h1> 💫 Hi, I'm Asib Hossen</h1>
+  <p>A Python lover with the mindset to learn more day by day.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asibhossen897&label=Profile%20views&color=0e75b6&style=flat" alt="asibhossen897" /> </p>
+ </br>
+ 
+ ###  About Me
+ <p> Hello, I am Asib from Rajshahi, Bangladesh. I am 20 years old.
+  
+   I'm a self-taught Python developer. I also have enthusiasm towards Web Scraping, Automation, Data Science and Web Development. I have been learning Python and doing some projects over the last few months.
+   While having great love towards writing clean and beautiful code, I also have a mindset to contribute to open-source projects!
+   
+   Let's <b>automate</b>, <b>scrape</b>, <b>develop</b> and delve into <b> Data Science </b>🖤
 
-- 🌱 I’m currently learning **HTML, CSS**
+ </p>
 
-- 📫 How to reach me **me@asibhossen.com**
+ </br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/asibhossen8970" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asibhossen8970" height="30" width="40" /></a>
-</p>
+#### Currently, **I'm open to work and employment opportunities near Dhaka or Remote**.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- 💬 Loves to Talk about Islam, Python, Software, Coding, And Open-source
+- 🤝 Open for Collaboration, Excited to collaborate on innovative projects.
+- 🌱 Exploring Python, Data Science, Linux, AWS etc.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asibhossen897&show_icons=true&locale=en" alt="asibhossen897" /></p>
+#### [ Python ]
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asibhossen897&" alt="asibhossen897" /></p>
+<img src="https://skillicons.dev/icons?i=python" />
 
+#### [ Front End ]
+
+<img src="https://skillicons.dev/icons?i=html,css" />
+
+#### Familiar with [ Back End ]
+
+![Back End](https://skillicons.dev/icons?i=django,flask)
+
+#### Others
+
+<img src="https://skillicons.dev/icons?i=linux,figma,bash" />
+
+#### Contact Info
+
+<a href="mailto:dev.asib@proton.me">
+    <img src="https://img.shields.io/badge/Email_me-323330?style=for-the-badge&logo=Gmail&logoColor=white" />
+</a>
+<a href="#">
+   <img src="https://img.shields.io/badge/Portfolio-323330?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
+</a>
+ <a href="https://www.linkedin.com/in/yeasin2002/">
+       <img src="https://img.shields.io/badge/Linkedin-323330?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    
+ <a href="https://www.facebook.com/asibhossen8970">
+       <img src="https://img.shields.io/badge/Facebook-323330?style=for-the-badge&logo=facebook&logoColor=white" />
+    </a>
+ 
+  <a href="https://twitter.com/asibhossen897">
+       <img src="https://img.shields.io/badge/Twitter-323330?style=for-the-badge&logo=twitter&logoColor=white" />
+    </a>
+<a href="">
+       <img src="https://img.shields.io/badge/leetcode-323330?style=for-the-badge&logo=leetcode&logoColor=white" />
+    </a>
+
+<a href="https://dev.to/asibhossen897">
+       <img src="https://img.shields.io/badge/dev.to-323330?style=for-the-badge&logo=dev.to&logoColor=white" />
+    </a>
+
+<br  />
+
+<details >
+<summary>  <h4 > 📈 GitHub States (Click to Open) </h4> </summary>
+<be>
+
+![Asib Hossen's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asibhossen897&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact)
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=asibhossen897&show_icons=true)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=asibhossen897&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/asibhossen897)](https://leetcode.com/asibhossen897)
+
+</details>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&fontSize=20"  /></p>
