@@ -66,7 +66,7 @@
 <br  />
 
 <details >
-<summary>  <h4 > 📈 GitHub States (Click to Open) </h4> </summary>
+<summary>  <h4 > 📈 GitHub Stats (Click to Open) </h4> </summary>
 <be>
 
 ![Asib Hossen's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asibhossen897&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact)
@@ -77,6 +77,13 @@
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/asibhossen897)](https://leetcode.com/asibhossen897)
 
+</details>
+
+<details>
+<summary> <h4> 📈 Wakatime Stats (Click to Open) </h4> </summary>
+
+[![Asib's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=asibhossen897)](https://github.com/anuraghazra/github-readme-stats)
+  
 </details>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&fontSize=20"  /></p>
