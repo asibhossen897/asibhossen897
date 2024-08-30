@@ -20,21 +20,34 @@
 - 🤝 Open for Collaboration, Excited to collaborate on innovative projects.
 - 🌱 Exploring Python, FastAPI, Data Science, Linux, AWS etc.
 
-#### [ Python ]
+<details>
+<summary>  <h4 > 🛠️ Skills (Click to Open) </h4> </summary>
+<be>
 
-<img src="https://skillicons.dev/icons?i=python" />
+<table>
+  <tr>
+    <td align="center" valign="middle">
+      <strong>Python</strong> <br>
+      <img src="https://skillicons.dev/icons?i=python" />
+    </td>
+    <td align="center" valign="middle">
+      <strong>Front End</strong> <br>
+      <img src="https://skillicons.dev/icons?i=html,css" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <strong>Back End</strong> <br>
+      <img src="https://skillicons.dev/icons?i=fastapi" /> <br>
+    </td>
+    <td align="center" valign="middle">
+      <strong>Others</strong> <br>
+      <img src="https://skillicons.dev/icons?i=linux,figma,bash" />
+    </td>
+  </tr>
+</table>
 
-#### [ Front End ]
-
-<img src="https://skillicons.dev/icons?i=html,css" />
-
-#### [ Back End ]
-
-![Back End](https://skillicons.dev/icons?i=fastapi)
-
-#### Others
-
-<img src="https://skillicons.dev/icons?i=linux,figma,bash" />
+</details>
 
 #### Contact Info
 
