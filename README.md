@@ -73,7 +73,7 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=asibhossen897&show_icons=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=asibhossen897&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=asibhossen897&theme=github-dark&hide_total_contributions=true)](https://git.io/streak-stats)
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/asibhossen897)](https://leetcode.com/asibhossen897)
 
