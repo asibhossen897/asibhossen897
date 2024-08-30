@@ -82,9 +82,9 @@
 <summary>  <h4 > 📈 GitHub Stats (Click to Open) </h4> </summary>
 <be>
 
-| ![Asib Hossen's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asibhossen897&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&layout=compact&card_width=450) | ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=asibhossen897&show_icons=true&theme=transparent) |
+| ![Asib Hossen's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asibhossen897&langs_count=10&hide_border=false&locale=en&layout=compact&card_width=450&theme=transparent) | ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=asibhossen897&show_icons=true&theme=transparent) |
 |---|---|
-| [![GitHub Streak](https://streak-stats.demolab.com?user=asibhossen897&theme=github-dark&hide_total_contributions=true)](https://git.io/streak-stats) | [![Leetcode Stats](https://leetcard.jacoblin.cool/asibhossen897)](https://leetcode.com/asibhossen897) |
+| [![GitHub Streak](https://streak-stats.demolab.com?user=asibhossen897&theme=github-dark&hide_total_contributions=true&theme=transparent)](https://git.io/streak-stats) | [![Leetcode Stats](https://leetcard.jacoblin.cool/asibhossen897)](https://leetcode.com/asibhossen897) |
 
 </details>
 
