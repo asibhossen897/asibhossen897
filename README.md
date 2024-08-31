@@ -54,10 +54,10 @@
 <a href="mailto:dev.asib@proton.me">
     <img src="https://img.shields.io/badge/Email_me-323330?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
-<a href="#">
+<a href="https://asibhossen897.github.io/">
    <img src="https://img.shields.io/badge/Portfolio-323330?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
 </a>
- <a href="https://www.linkedin.com/in/yeasin2002/">
+ <a href="https://www.linkedin.com/in/">
        <img src="https://img.shields.io/badge/Linkedin-323330?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     
