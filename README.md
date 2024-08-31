@@ -1,18 +1,19 @@
-  <h1> 👋 Hi, I'm Asib Hossen 👋</h1>
-  <p>A Python <🐍> lover with the mindset to learn more day by day.</p>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&weight=900&size=30&pause=1000&center=true&width=500&lines=%F0%9F%91%8B+Hi%2C+I'm+Asib+Hossen;A+Python+Enthusiast+%F0%9F%90%8D)](https://git.io/typing-svg)
 
+</div>
  
  ###  About Me
- <p> Hello, I am Asib from Rajshahi, Bangladesh. I am 20 years old.
+ <p> Hello, I am Asib from Naogaon, Bangladesh. I am 20 years old.
   
-   I'm a self-taught Python developer. I also have enthusiasm towards Web Scraping, Automation, Data Science and Web Development. I have been learning Python and doing some projects over the last few months.
+   I'm a self-taught Python developer. I also have enthusiasm towards **Web Scraping, Automation, Data Science and Web Development**. I have been learning Python and doing some projects over the last few months.
    While having great love towards writing clean and beautiful code, I also have a mindset to contribute to open-source projects!
    
    Let's <b>automate</b>, <b>scrape</b>, <b>develop</b> and delve into <b> Data Science </b>🖤
 
  </p>
 
- </br>
 
 #### Currently, **I'm open to work and employment opportunities near Dhaka or Remote**.
 
